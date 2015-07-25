@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EbaySearch</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sortby_array">
+        <item>Best Match</item>
+        <item>Price: highest first</item>
+        <item>Price + Shipping: highest first</item>
+        <item>Price + Shipping: lowest first</item>
+    </string-array>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="fb_activity">FacebookActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="facebook_app_id">869537476439566</string>
+</resources>
